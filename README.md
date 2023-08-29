@@ -6,7 +6,7 @@
 
 ---
 
-👓 Sports Data enthusiast
+👓 Data Analytics enthusiast
 
 🌐 Loves to get hands-on with data
 
